@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "《内向者优势》中的自我判断调查"
+title:  "内向？ or 外向？"
 date:   2016-04-16 18:44:00 +0800
 categories: jekyll update
 ---
-《内向者优势》中的自我判断调查
+你是内向还是外向？这个测试可以告诉你！
 ==========
 （引用内容摘自《内向者优势》一书，作者 Marti Olsen Laney）
 
